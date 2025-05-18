@@ -20,25 +20,21 @@ A modern web application built with Laravel that [briefly describe core function
 - [Contributing](#contributing)
 - [License](#license)
 
----
 
-## Features
 
-- Feature 1
-- Feature 2
-- Feature 3
-
-## Requirements
-
-- PHP 8.0+
-- Composer
-- MySQL 5.7+ / PostgreSQL / SQLite
-- Node.js 14+ (for frontend assets)
-- Laravel 9.x/10.x
 
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/project-name.git
-   cd project-name
+   git clone https://github.com/AhmedNasrElhariri/daftra.git
+   cd backend
+   composer install
+   cp .env.example .env
+   php artisan migrate
+   php artisan serve
+
+
+   the froontend build  set at public react
+
+   so run the backend server 
