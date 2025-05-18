@@ -25,8 +25,6 @@ A modern web application built with Laravel that [briefly describe core function
 
 ## Installation
 
-1. Clone the repository:
-   ```bash
    git clone https://github.com/AhmedNasrElhariri/daftra.git
    cd backend
    composer install
@@ -36,5 +34,8 @@ A modern web application built with Laravel that [briefly describe core function
 
 
    the froontend build  set at public react
-
-   so run the backend server 
+   
+## Content
+   Laravel => backend path
+   React => frontend path
+   
