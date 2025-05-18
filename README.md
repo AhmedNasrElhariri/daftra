@@ -25,17 +25,18 @@ A modern web application built with Laravel that [briefly describe core function
 
 ## Installation
 
-   git clone https://github.com/AhmedNasrElhariri/daftra.git
-   cd backend
-   composer install
-   cp .env.example .env
-   php artisan migrate
-   php artisan serve
+  - git clone https://github.com/AhmedNasrElhariri/daftra.git
+  - cd backend
+  - composer install
+  - cp .env.example .env
+  - php artisan migrate
+  - php artisan serve
 
 
-   the froontend build  set at public react
+  - the froontend build  set at public react
    
 ## Content
-   Laravel => backend path
-   React => frontend path
+   - Laravel => backend path
+   
+   - React => frontend path
    
