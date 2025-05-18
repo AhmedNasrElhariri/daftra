@@ -36,7 +36,7 @@ A modern web application built with Laravel that [briefly describe core function
   - the froontend build  set at public react
    
 ## Content
-   - Laravel => backend path
+   - Laravel => backend folder
    
-   - React => frontend path
+   - React => frontend folder
    
